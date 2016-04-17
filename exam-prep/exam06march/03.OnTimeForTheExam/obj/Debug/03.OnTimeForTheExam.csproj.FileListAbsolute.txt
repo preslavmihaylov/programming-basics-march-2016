@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.pdb
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.pdb

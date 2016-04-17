@@ -1,0 +1,5 @@
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\04.Histogram\bin\Debug\04.Histogram.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\04.Histogram\bin\Debug\04.Histogram.pdb
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\04.Histogram\obj\Debug\04.Histogram.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\04.Histogram\obj\Debug\04.Histogram.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\04.Histogram\obj\Debug\04.Histogram.pdb

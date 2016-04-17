@@ -1,0 +1,5 @@
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\01.TrainingHall\bin\Debug\01.TrainingHall.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\01.TrainingHall\bin\Debug\01.TrainingHall.pdb
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\01.TrainingHall\obj\Debug\01.TrainingHall.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\01.TrainingHall\obj\Debug\01.TrainingHall.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\01.TrainingHall\obj\Debug\01.TrainingHall.pdb

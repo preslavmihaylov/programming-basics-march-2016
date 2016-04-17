@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\02.TransportPrice\bin\Debug\02.TransportPrice.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\02.TransportPrice\bin\Debug\02.TransportPrice.pdb
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\02.TransportPrice\obj\Debug\02.TransportPrice.exe
+D:\Programming\lectures\programming-basics-march-2016\exam-prep\exam06march\02.TransportPrice\obj\Debug\02.TransportPrice.pdb
